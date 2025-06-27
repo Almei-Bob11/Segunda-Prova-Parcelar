@@ -15,6 +15,7 @@ Automatizar a gestão escolar, facilitando o controle de alunos, professores, tu
 - Emissão de boletins escolares e declarações
 - Controle de frequência
 - Geração de relatórios administrativos e pedagógicos
+---------------------------------------------------------------
 
 ## Tecnologias Utilizadas
 
